@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.7)
+cmake_minimum_required(VERSION 3.0)
 project(TargetDetectionSandbox)
 
 find_package( OpenCV HINTS /usr/local/opt/opencv3 )
